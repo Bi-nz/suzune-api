@@ -1,0 +1,12 @@
+{
+  "name": "suzune-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Bi-nz",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
