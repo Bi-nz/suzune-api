@@ -1,1 +1,2 @@
 # suzune-api
+## Private API
